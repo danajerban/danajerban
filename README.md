@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me 🌱
+Driven full-stack developer with a focus on the JavaScript ecosystem.
+
+Proficient in Next.js and MERN Stack. Engineering enthusiast and a graduate of the Software Engineering Immersive program at Codeworks, with a Bachelor's degree in Computer Engineering from Epoka University, and a strong drive to kickstart my career in the field.
+
+I am an avid learner who is passionate about exploring new technologies and leveraging them to enhance our lives. With 7 years of experience in the hospitality industry, I have honed exceptional communication skills and developed a strong ability to work effectively within teams.
