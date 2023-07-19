@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me 🌱
-Driven full-stack developer with a focus on the JavaScript ecosystem.
 
-Proficient in Next.js and MERN Stack. Engineering enthusiast and a graduate of the Software Engineering Immersive program at Codeworks, with a Bachelor's degree in Computer Engineering from Epoka University, and a strong drive to kickstart my career in the field.
+Experienced Full-Stack Software Engineer with expertise in the JavaScript ecosystem.
+Proficient in Next.js and MERN Stack. Skilled in React.js, TypeScript, Redux, Koa, PostgreSQL, MySQL, Prisma, Angular, Axios, Jest, Cypress, TailwindCSS, and Git.
 
-I am an avid learner who is passionate about exploring new technologies and leveraging them to enhance our lives. With 7 years of experience in the hospitality industry, I have honed exceptional communication skills and developed a strong ability to work effectively within teams.
+I am a fast learner and a driven developer with a background in the hospitality industry. Always ready to embrace new challenges and excel in tight schedules, my passion lies in crafting innovative digital experiences and staying up-to-date with cutting-edge technologies. Leveraging a wide range of JavaScript technologies, I strive to deliver robust and scalable solutions that exceed client expectations.
+
+LinkedIn: https://www.linkedin.com/in/erban-danaj/
