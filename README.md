@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://erbandanaj.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=Website&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+    <img src="https://img.shields.io/static/v1?message=website&logo=website&label=&color=915EFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
   </a>
 </div>
 
@@ -29,8 +29,7 @@
 <p align="left">🔭 I'm an experienced full stack developer proficient in TypeScript and JavaScript, with expertise in frameworks like React, Node.js, and Next.js.<br><br>📚 I'm quick to learn in fast-paced environments and confidently collaborate with clients and team members to develop efficient, scalable, and user-friendly solutions aimed to solve real-world problems. <br><br>⚡ Visit <a href="https://erbandanaj.com" target="_blank">my website</a> for more, and feel free to reach out!
 </p>
 
-###
-<br><br>
+
 <h3 align="left">🛠 Technologies</h3>
 
 ###
