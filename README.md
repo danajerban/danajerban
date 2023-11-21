@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Erban 👋</h1>
+<h1 align="center">Hi, I'm Erban Danaj 👋</h1>
 
 ###
 
