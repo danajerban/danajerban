@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 I'm an experienced full stack developer proficient in TypeScript and JavaScript, with expertise in frameworks like React, Node.js, and Next.js.<br><br>📚 I'm quick to learn in fast-paced environments and confidently collaborate with clients and team members to develop efficient, scalable, and user-friendly solutions aimed to solve real-world problems. <br><br>⚡ Visit <a href="https://erbandanaj.com" target="_blank">my website</a> for more, and feel free to reach out!
+<p align="left">🔭 I'm an experienced full stack developer proficient in TypeScript and JavaScript, with expertise in frameworks like React, Node.js, and Next.js.<br><br>📚 With an extensive background in the full software development lifecycle, and a developer for more than 30 web and mobile applications spanning various markets, I provide user-friendly solutions aimed to solve real-world problems. <br><br>⚡ Visit <a href="https://erbandanaj.com" target="_blank">my website</a> for more, and feel free to reach out!
 </p>
 
 
