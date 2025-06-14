@@ -8,7 +8,7 @@ I spend my days wrangling TypeScript types, writing React components that don’
 - 🎓 Software Engineer at **The Coaching Masters** — Scaling video & audio infrastructure for 16K+ monthly learners
 - 🌍 4+ years delivering 20+ projects across Europe — while actually traveling through it because the best debugging happens with a view
 - 🎨 Frontend enthusiast who secretly loves backend architecture
-- 🤖 Learning agentic and generative AI to build tools that genuinely help people
+- 🤖 Currently learning agentic and generative AI to build tools that genuinely help people
 
 ## 🧰 Tech Toolbox
 `TypeScript` • `React` • `Next.js` • `Node.js` • `Three.js`  
