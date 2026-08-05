@@ -17,4 +17,3 @@
 - [**OpenCode CLI**](https://opencode.ai/) — AI coding agent with multi-model support — same setup as Claude Code
 - [**Context7**](https://github.com/upstash/context7) MCP — Up-to-date library and framework documentation for any LLM
 - [**RTK**](https://github.com/rtk-ai/rtk) — Rust CLI proxy that reduces LLM token consumption by ~80%
-- [**VibeProxy**](https://github.com/automazeio/vibeproxy) — macOS app to route coding agents through existing AI subscriptions, built on [CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus)
