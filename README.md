@@ -11,7 +11,7 @@ I spend my days crafting TypeScript types, writing React components that don't b
 - [Development Setup](SETUP.md)
 
 ## 📫 Reach Me
-- Portfolio: [erbandanaj.com](https://erbandanaj.com)
+- Portfolio: [erbandanaj.dev](https://www.erbandanaj.dev)
 - LinkedIn: [@erban-danaj](https://linkedin.com/in/erban-danaj)
 - Email: danajerban@gmail.com
 - CV: [Download CV](https://github.com/user-attachments/files/21945181/Erban.Danaj.-.Software.Engineer.pdf)
