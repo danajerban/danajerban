@@ -20,5 +20,5 @@ I spend my days crafting TypeScript types, writing React components that don't b
 
 ---
 > *"Building user-friendly solutions that solve real-world problems"*
-<img width="2059" height="1157" alt="erbandanaj.dev" src="https://github.com/user-attachments/assets/889f54e9-30c9-44ab-b6c8-db4bcd38d636" />
+<img width="2000" height="1053" alt="erbandanaj.dev" src="assets/erbandanaj-dev.webp" />
 
